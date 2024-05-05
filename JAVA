@@ -1,0 +1,5 @@
+git clone https://git.codecrafters.io/a11a1c5167d288eb codecrafters-git-java
+cd codecrafters-git-java
+
+git commit --allow-empty -m 'test'
+git push origin master
